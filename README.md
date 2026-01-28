@@ -117,12 +117,9 @@ strategic-planner-pro/
 │   │   ├── auth/            # Authentication components
 │   │   ├── dashboard/       # Dashboard widgets
 │   │   ├── swot/            # SWOT analysis components
-│   │   ├── CLDs/            # Causal Loop Diagrams and Systems Archetypes
 │   │   ├── strategy/        # Strategic options components
-│   │   ├── simulator/       # Impact and likelihood strategic options simulator
 │   │   ├── bsc/             # Balanced scorecard components
 │   │   ├── pap/             # Program & action plan components
-│   │   ├── team/            # Team collaboration components
 │   │   └── reports/         # Report generation components
 │   ├── hooks/               # Custom React hooks
 │   │   ├── useAuth.ts       # Authentication hook
@@ -339,4 +336,4 @@ For support, email support@strategicplannerpro.com or open an issue on GitHub.
 
 ---
 
-Built with ❤️ by ASilva Innovations Team
+Built with ❤️ by the Strategic Planner Pro Team
